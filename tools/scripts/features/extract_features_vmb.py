@@ -1,7 +1,7 @@
 # Copyright (c) Facebook, Inc. and its affiliates.
 
-# Requires vqa-maskrcnn-benchmark to be built and installed
-# Category mapping for visual genome can be downloaded from
+# Requires vqa-maskrcnn-benchmark (https://gitlab.com/vedanuj/vqa-maskrcnn-benchmark)
+# to be built and installed. Category mapping for visual genome can be downloaded from
 # https://dl.fbaipublicfiles.com/pythia/data/visual_genome_categories.json
 # When the --background flag is set, the index saved with key "objects" in
 # info_list will be +1 of the Visual Genome category mapping above and 0
